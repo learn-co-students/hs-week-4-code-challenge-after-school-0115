@@ -16,4 +16,4 @@ Think about capitalized words. For example, look at these sentences:
 
 In this example, your final hash should include one "add" key with a value of 2. Assume the input will only contain words and standard punctuation and ignore capitalization. 
 
-Write out your code in `word_cloud.rb` and run the test in `word_cloud_spec.rb` to check your answer.
+Fork and clone this lab then write out your code in `word_cloud.rb` and run the test in `word_cloud_spec.rb` to check your answer.
